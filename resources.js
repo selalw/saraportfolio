@@ -29,67 +29,30 @@ const RESOURCES = [
     link: "https://drive.google.com/drive/folders/1_CPBJSrvtDzMDARqOao9qlsangYwhXfB?usp=drive_link",
     featured: true
   },
-  {
-    title: "Cell Structure & Function",
-    type: "Slides",
-    subject: "Biology",
-    grade: "Grade 9",
-    description: "22-slide deck covering organelles, with analogy-based visuals (the cell as a factory) and a built-in quick quiz.",
-    link: "https://drive.google.com/",
+    {
+    title: "Advertisements",
+    type: "Lesson Plan",
+    subject: "English",
+    grade: "Level 8",
+    description: "An interactive handout to help students with their speaking practice",
+    link: "https://drive.google.com/drive/folders/1bTJNeCVrl0x78d7TiftrVBgFqIuU77V2?usp=drive_link",
     featured: true
   },
   {
-    title: "Quadratic Equations: Three Ways to Solve",
-    type: "Lesson Plan",
-    subject: "Math",
+    title: "Mock Exams",
+    type: "Tests",
+    subject: "English",
+    grade: "All Grades",
+    description: "exam papers samples",
+    link: "https://drive.google.com/drive/folders/1z2i_0Mbhy_JvOp7dgH4HtJ6L0gBmcJCh?usp=drive_link",
+    featured: true
+  },
+  {
+    title: "Pancyprian English Exams",
+    type: "Revision",
+    subject: "English",
     grade: "Grades 8-9",
-    description: "Compares factoring, completing the square, and the quadratic formula side-by-side with guided practice problems.",
-    link: "https://drive.google.com/",
+    description: "Material for preparing for Pancyprian English Exam",
+    link: "https://drive.google.com/drive/folders/14nprattswo2rhXgodDJ4ECO8zJ6ywv7W?usp=drive_link",
     featured: false
   },
-  {
-    title: "Graphing Linear Functions",
-    type: "Worksheet",
-    subject: "Math",
-    grade: "Grade 8",
-    description: "Practice set with 12 problems moving from slope-intercept basics to real-world rate-of-change scenarios.",
-    link: "https://drive.google.com/",
-    featured: false
-  },
-  {
-    title: "The Causes of WWI",
-    type: "Slides",
-    subject: "History",
-    grade: "Grade 10",
-    description: "Walks through the MAIN causes framework (Militarism, Alliances, Imperialism, Nationalism) with primary source excerpts.",
-    link: "https://drive.google.com/",
-    featured: true
-  },
-  {
-    title: "Primary Source Analysis Worksheet",
-    type: "Worksheet",
-    subject: "History",
-    grade: "Grades 9-10",
-    description: "A reusable scaffold for analyzing any historical document: source, context, claim, evidence, significance.",
-    link: "https://drive.google.com/",
-    featured: false
-  },
-  {
-    title: "Persuasive Essay Structure",
-    type: "Lesson Plan",
-    subject: "English",
-    grade: "Grade 7",
-    description: "Breaks down a persuasive essay into claim, reasoning, evidence, and counterargument using a model paragraph.",
-    link: "https://drive.google.com/",
-    featured: false
-  },
-  {
-    title: "Grammar Mini-Lesson: Commas in Compound Sentences",
-    type: "Video",
-    subject: "English",
-    grade: "Grades 6-8",
-    description: "A short screen-recorded explainer with examples, made for students to rewatch before a quiz.",
-    link: "https://www.youtube.com/",
-    featured: false
-  }
-];
