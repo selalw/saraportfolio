@@ -21,12 +21,12 @@
 
 const RESOURCES = [
   {
-    title: "Photosynthesis: From Sunlight to Sugar",
-    type: "Lesson Plan",
-    subject: "Biology",
-    grade: "Grade 9",
-    description: "A 50-minute lesson with a diagram-labeling warm-up, a light/dark leaf demo, and an exit-ticket check for understanding.",
-    link: "https://drive.google.com/",
+    title: "Discussing Art Handout",
+    type: "Handout",
+    subject: "English",
+    grade: "Level 8",
+    description: "An interactive handout to help students with their speaking practice",
+    link: "https://drive.google.com/drive/folders/1_CPBJSrvtDzMDARqOao9qlsangYwhXfB?usp=drive_link",
     featured: true
   },
   {
