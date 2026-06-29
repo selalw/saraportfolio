@@ -21,8 +21,8 @@
 
 const RESOURCES = [
   {
-    title: "Discussing Art Handout",
-    type: "Handout",
+    title: "Discussing Art",
+    type: "Lesson Plan",
     subject: "English",
     grade: "Level 8",
     description: "An interactive handout to help students with their speaking practice",
